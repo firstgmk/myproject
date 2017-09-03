@@ -24,6 +24,6 @@ class  Random1
 	 { System.out.println("Win");
 	 }
 	 else System.out.println("Lose");
-		System.out.println("Thank You");
+		
 	}
 }
